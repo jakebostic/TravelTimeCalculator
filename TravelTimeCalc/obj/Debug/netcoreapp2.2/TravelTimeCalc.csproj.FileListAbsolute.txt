@@ -1,0 +1,11 @@
+C:\repos\TravelTimeCalc\TravelTimeCalc\bin\Debug\netcoreapp2.2\TravelTimeCalc.deps.json
+C:\repos\TravelTimeCalc\TravelTimeCalc\bin\Debug\netcoreapp2.2\TravelTimeCalc.runtimeconfig.json
+C:\repos\TravelTimeCalc\TravelTimeCalc\bin\Debug\netcoreapp2.2\TravelTimeCalc.runtimeconfig.dev.json
+C:\repos\TravelTimeCalc\TravelTimeCalc\bin\Debug\netcoreapp2.2\TravelTimeCalc.dll
+C:\repos\TravelTimeCalc\TravelTimeCalc\bin\Debug\netcoreapp2.2\TravelTimeCalc.pdb
+C:\repos\TravelTimeCalc\TravelTimeCalc\obj\Debug\netcoreapp2.2\TravelTimeCalc.csprojAssemblyReference.cache
+C:\repos\TravelTimeCalc\TravelTimeCalc\obj\Debug\netcoreapp2.2\TravelTimeCalc.csproj.CoreCompileInputs.cache
+C:\repos\TravelTimeCalc\TravelTimeCalc\obj\Debug\netcoreapp2.2\TravelTimeCalc.AssemblyInfoInputs.cache
+C:\repos\TravelTimeCalc\TravelTimeCalc\obj\Debug\netcoreapp2.2\TravelTimeCalc.AssemblyInfo.cs
+C:\repos\TravelTimeCalc\TravelTimeCalc\obj\Debug\netcoreapp2.2\TravelTimeCalc.dll
+C:\repos\TravelTimeCalc\TravelTimeCalc\obj\Debug\netcoreapp2.2\TravelTimeCalc.pdb
